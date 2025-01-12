@@ -66,7 +66,7 @@ This project is an AI-powered waste classification system designed to identify t
 
 ---
 
-### Backend Setup
+### Backend Setup(Already deployed on Railway, only neccesary if you want to train or test locally)
 
 1. Clone the repository:
    ```bash
@@ -105,10 +105,10 @@ This project is an AI-powered waste classification system designed to identify t
 
 3. Start the Expo server:
    ```bash
-   expo start
+   npx expo start
    ```
 
-4. Scan the QR code using the **Expo Go** app on your iPhone to view the app.
+4. Download the Expo Go app on your Iphone and scan the QR code using the Iphone camera to view the app.
 
 ---
 
