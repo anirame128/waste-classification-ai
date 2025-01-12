@@ -59,7 +59,7 @@ export default function HomeScreen() {
 
       // Send the POST request to the correct URL
       const response = await fetch(
-        "https://waste-classification-production.up.railway.app/classify",
+        "https://waste-classification-ai-production.up.railway.app/classify",
         {
           method: "POST",
           headers: {
